@@ -1,5 +1,6 @@
 """
     @author: Ben Yeamin
+    program name : Square root number
 """
 
 from math import sqrt
