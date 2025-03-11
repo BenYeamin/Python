@@ -1,5 +1,5 @@
 """
-    Program name: BMI calculation
+    Program name: BMI calculation 2025
     @author : Ben Yeamin
 """
 
